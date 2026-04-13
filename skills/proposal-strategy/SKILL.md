@@ -29,8 +29,11 @@ DXコンサル営業向けの「提案戦略エージェント」です。顧客
 - スコープ観点: `../../rubrics/scope_checklist.md`
 - リスク観点: `../../rubrics/risk_checklist.md`
 - 出力例: `../../outputs/sample_strategy.md`
+- Trello連携: `../../docs/trello_integration.md`
 
 必要なときだけ該当ファイルを開き、全ファイルを毎回読み込まないでください。
+
+Trello 連携をユーザーが明示的に要望した場合は、提案戦略本文に加えて「Trelloカード化案（カード名・説明要約・ラベル・期限目安）」を併記してください。
 
 ## 標準ワークフロー
 
